@@ -1,0 +1,84 @@
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+h2{
+    font-weight: bolder;
+}
+
+.title_e{
+    padding: 0.75rem;
+    padding-top: 0.25rem;
+    border: 1px solid black;
+}
+
+div.categorias{
+    margin-top: 2rem;
+}
+
+#dropdownMenuLink{
+    background-color:#ba6a62;
+    width: 100%;
+    border: none;
+}
+div.dropdown-menu{
+    width: 100%;
+}
+
+div#carouselIndicators{
+    margin-top: 1rem;
+}
+
+.carousel-item{
+    max-height: 35rem;
+}
+
+.icon{
+    color: #D19C97;
+}
+
+button.services{
+    padding: 3rem;
+}
+
+span.services{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.color_1{
+    color:#ba6a62;
+}
+
+.color_1{
+    color:#6c757d;
+}
+
+.color_1{
+    color:#6F6F6F;
+}
+
+.color_1{
+    color:#e9ecef;
+}
+
+.color_1{
+    color:#212529;
+}
+
+.color_1{
+    color:#EDF1FF;
+}
+
+.color_1{
+    color:#6c757d;
+}
+
+
+
+
+
